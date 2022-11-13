@@ -3,7 +3,6 @@
 
 ### Classes in navbar section
 - ***container*** : Gives padding for every side
-- ****
 - **bg-dark** : dark background
 - **py-3** : padding to the y axis (top and bottom)
 
@@ -12,7 +11,7 @@
 ### Classes in hero section
 - **text-light** : light text color
 - **p-5** : padding the four sides with the hightest value in bootstrap
-- **text-center*** : Center the text inside the element
+- **text-center** : Center the text inside the element
 - **d-flex** : A normal flex box with direction row
 - **d-sm-flex** : When it hit small device screen it changes flex directon to column
 - **img-fluid** : It makes the image responsive by filling in container
